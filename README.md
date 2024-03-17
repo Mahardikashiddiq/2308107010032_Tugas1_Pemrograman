@@ -1,1 +1,1 @@
-# 2308107010032_Tugas1_Pemrograman
+berikut cara menjalankan kode programnya :
